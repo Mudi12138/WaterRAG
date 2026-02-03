@@ -1,0 +1,2 @@
+0520_256/**/*.pkl filter=lfs diff=lfs merge=lfs -text
+0520_256/**/*.faiss filter=lfs diff=lfs merge=lfs -text
